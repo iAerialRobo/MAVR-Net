@@ -96,7 +96,7 @@ autonomous aerial swarms. Yet, vision-based recognition models relying only on R
 
 ## Datasets link:
 
-The part of validate datasets are in following: https://drive.google.com/file/d/1DfgWLfLJ0zHUOGUXlXQdDfDa8Ml0Z2aZ/view?usp=sharing We will release full data after the paper accept.
+The part of validate datasets is in following: https://drive.google.com/file/d/1DfgWLfLJ0zHUOGUXlXQdDfDa8Ml0Z2aZ/view?usp=sharing We will release full data after the paper accept.
 
 
 # Citation
